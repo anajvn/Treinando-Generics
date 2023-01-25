@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\bin\Debug\net6.0\TreinandoGenerics.exe
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\bin\Debug\net6.0\TreinandoGenerics.deps.json
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\bin\Debug\net6.0\TreinandoGenerics.runtimeconfig.json
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\bin\Debug\net6.0\TreinandoGenerics.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\bin\Debug\net6.0\TreinandoGenerics.pdb
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\TreinandoGenerics.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\TreinandoGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\TreinandoGenerics.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\TreinandoGenerics.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\TreinandoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\TreinandoGenerics.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\refint\TreinandoGenerics.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\TreinandoGenerics.pdb
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\TreinandoGenerics.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoGenerics\obj\Debug\net6.0\ref\TreinandoGenerics.dll
